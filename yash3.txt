@@ -1,0 +1,1 @@
+this is text document 3 which is created for git checking
