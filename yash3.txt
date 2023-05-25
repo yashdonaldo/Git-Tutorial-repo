@@ -1,1 +1,1 @@
-this is text document 3 which is created for git checking
+this is text document 3 which is created for git checking now working directory is not clean what hell is going on
